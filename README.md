@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaulaires%2FDaulaires&count_bg=%233DC1C8&title_bg=%23555555&icon=bilibili.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://hit.yhype.me/github/profile?user_id=102845355)
 <!--
 **Daulaires/Daulaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
